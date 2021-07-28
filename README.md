@@ -29,6 +29,7 @@ scan bar code on `expo go` appstore
     return db.ref('/users').once('value').then(function (snapshot) {
 ```
 - => add a name will push Expo notification by trigger function `sendPushNotification`
+>28/7/2021 NOT show notification in iphone, still don't know why?
 ************************
 ![fbfunction](screenshots/fbfunction.png)
 
