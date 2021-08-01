@@ -59,3 +59,7 @@ scan bar code on `expo go` appstore
 - `expo install expo-google-app-auth`
 - `components/screens/LoginScreen.js: import * as Google from 'expo-google-app-auth'`
 
+### running result
+- firebase > Authentication > Users > show gmail login acc
+- firebase > Realtime Database > users > uid > record with login acc info
+
