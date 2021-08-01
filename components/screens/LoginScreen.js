@@ -80,7 +80,7 @@ export default class LoginScreen extends Component {
             // https://docs.expo.dev/versions/latest/sdk/google/
             const result = await Google.logInAsync({
                 // androidClientId: YOUR_CLIENT_ID_HERE,
-                iosClientId: '516507242247-o5bdq9mhvooe1h6lo7cvp8fu6i7dgmhb.apps.googleusercontent.com',
+                iosClientId: 'XXX',
                 scopes: ['profile', 'email']
             });
             if (result.type === 'success') {
