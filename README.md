@@ -14,7 +14,7 @@ scan bar code on `expo go` appstore
 ![1](screenshots/1.jpeg)
 
 ### firebase & expo notification
-1. `App.js`
+1. `SwipeList&PushNoti.js`
 ```js
   componentDidMount() {
     try {
