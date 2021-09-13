@@ -37,6 +37,11 @@ scan bar code on `expo go` appstore
 
 ## 2) GG login
 
+************************
+![G1](screenshots/G1.jpeg)
+************************
+![G2](screenshots/G2.jpeg)
+
 ### GG API
 - `https://console.cloud.google.com/apis/credentials`
 - `Create credentials` > `OAuth client ID`
@@ -50,6 +55,9 @@ scan bar code on `expo go` appstore
 ### GG firebase
 - firebase > Authentication > Sign-in method > Google: Enable > Safelist client IDs from external projects (optional)
 - copy paste `OAuth client ID`
+
+### src code
+- `components/screens/LoginScreen.js: iosClientId: '<OAuth client ID>'`
 
 ************************
 ![clientid](screenshots/clientid.png)

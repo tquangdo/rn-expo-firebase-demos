@@ -7,14 +7,14 @@ import LoadingScreen from './components/screens/LoadingScreen';
 import LoginScreen from './components/screens/LoginScreen';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBuIn1T0eZnYYVYuULtEO-ZtuC8tQn9ZqQ",
-  authDomain: "rn-demo-e909a.firebaseapp.com",
-  databaseURL: "https://rn-demo-e909a-default-rtdb.asia-southeast1.firebasedatabase.app",
+  apiKey: "xxx",
+  authDomain: "xxx",
+  databaseURL: "xxx",
   projectId: "rn-demo-e909a",
   storageBucket: "rn-demo-e909a.appspot.com",
-  messagingSenderId: "561771803892",
-  appId: "1:561771803892:web:c66939e7637db16e41daa1",
-  measurementId: "G-WKX1DYQQXK"
+  messagingSenderId: "xxx",
+  appId: "xxx",
+  measurementId: "xxx",
 };
 firebase.initializeApp(firebaseConfig);
 
