@@ -1,9 +1,9 @@
-# rn-firebase-demos 🐳
+# rn-expo-firebase-demos 🐳
 
-![Stars](https://img.shields.io/github/stars/tquangdo/rn-firebase-demos?color=f05340)
-![Issues](https://img.shields.io/github/issues/tquangdo/rn-firebase-demos?color=f05340)
-![Forks](https://img.shields.io/github/forks/tquangdo/rn-firebase-demos?color=f05340)
-[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/rn-firebase-demos/issues/new)
+![Stars](https://img.shields.io/github/stars/tquangdo/rn-expo-firebase-demos?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/rn-expo-firebase-demos?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/rn-expo-firebase-demos?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/rn-expo-firebase-demos/issues/new)
 
 ## Usage
 scan bar code on `expo go` appstore
